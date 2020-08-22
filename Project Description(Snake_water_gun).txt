@@ -1,0 +1,15 @@
+Project Title - Snake_water_gun
+
+Project Description-
+This project involves generating a random number between 1 to 100 ( Both included )
+which is hidden from user . There are 3 characters in the project which are as follows-
+'s' for snake , 'w' for water and 'g' for gun. Two variables are created in the program to
+store computer value and input from user respectively. If the randomly generated number
+is less than 33 , then computer choose 's' , if this number is above 33 and less than 66 , 
+then the computer choose 'w' and if this number is more than 66 and less than 100 , then
+the computer chooses 'g'. Now the character of both input and computer is compared.
+Logic is if there is comparison between snake and water , then snake wins. if there is 
+comparison between snake and gun, then gun wins. if there is comparison between 
+water and gun, then water wins . according to this comparison , integer is returned and
+program displays who wins the game (whether user or computer).In case both character
+happens to be same , then the match is draw .
