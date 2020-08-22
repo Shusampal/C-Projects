@@ -1,0 +1,11 @@
+Project Title - Number Guessing Game
+
+Project Description-
+This project involves generating a random number between 1 to 100 ( Both included )
+which is hidden from user and then asking the user to guess and enter a random number
+between 1 to 100.If the user entered a number which is beyond the range of 1 to 100 , then the
+program displays "!! Invalid number !!".If the user's guess is higher than the actual random 
+number , the program displays "!! enter lower number !!".Similarly if user's guess is smaller 
+than the actual random number,the program displays "!! enter higher number !!". When the user 
+guesses the correct number ,the program displays the number of guesses the player used to 
+arrive at the number".
